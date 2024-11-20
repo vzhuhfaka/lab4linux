@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee53ba93-7c83-4c11-bca9-78b6afd82ee8)<h3>Отчёт по лабораторной работы №4</h3>
+<h3>Отчёт по лабораторной работы №4</h3>
 <h4>Выполнил: Останин А.</h4>
 
 1) Создадим Dockerfile и впишем в него инструкции для установки aafire и ping
